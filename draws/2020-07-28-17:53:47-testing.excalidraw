@@ -1,0 +1,112 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://logseq.com",
+  "elements": [
+    {
+      "id": "AWknwrJnBlHH5ZHOj-Zue",
+      "type": "rectangle",
+      "x": 512.484375,
+      "y": 227.86328125,
+      "width": 264.40234375,
+      "height": 239.51171875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 575438511,
+      "version": 9,
+      "versionNonce": 812396335,
+      "isDeleted": false
+    },
+    {
+      "id": "Rlzc5tSl3AedMzevnKfg3",
+      "type": "arrow",
+      "x": 776.84765625,
+      "y": 379.109375,
+      "width": 317.48828125,
+      "height": 4.22265625,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1788432161,
+      "version": 38,
+      "versionNonce": 727900591,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          317.48828125,
+          -4.22265625
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "fJyF-vKw7YBzE-uw5ZfiE",
+      "type": "rectangle",
+      "x": 1131.890625,
+      "y": 247.98046875,
+      "width": 317.7421875,
+      "height": 231.35546875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1327027151,
+      "version": 49,
+      "versionNonce": 716636577,
+      "isDeleted": false
+    },
+    {
+      "id": "KRNGV0Gc8BBvPhgXDoGZx",
+      "type": "text",
+      "x": 1252.26171875,
+      "y": 352.158203125,
+      "width": 82,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1097606383,
+      "version": 12,
+      "versionNonce": 937137377,
+      "isDeleted": false,
+      "text": "Nice one",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFF",
+    "gridSize": null
+  }
+}
