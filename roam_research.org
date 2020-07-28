@@ -2,4 +2,4 @@
 #+TAGS: tool for thought
 *
 ** a tool for thought
-** 
+** more thoughts
