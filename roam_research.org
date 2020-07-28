@@ -1,4 +1,4 @@
 #+TITLE: Roam Research
 #+TAGS: tool for thought
-** 
-*** A tool for thought
+*
+** a tool for thought
